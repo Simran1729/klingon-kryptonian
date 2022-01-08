@@ -1,2 +1,2 @@
 # klingon-kryptonian
-about klingon and kryronian codes
+about klingon and krypronian codes
